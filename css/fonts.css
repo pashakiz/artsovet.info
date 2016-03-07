@@ -1,0 +1,10 @@
+@font-face {
+	font-family: "SuperMolotLight";
+	src: url("../fonts/supermolot/supermolot-light.eot");
+	src: url("../fonts/supermolot/supermolot-light.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/supermolot/supermolot-light.woff") format("woff"),
+	url("../fonts/supermolot/supermolot-light.ttf") format("truetype"),
+	url("../fonts/RobotoRegular/supermolot/supermolot-light.svg#SupermolotLight") format("svg");
+	font-style: normal;
+	font-weight: normal;
+}

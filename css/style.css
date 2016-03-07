@@ -1,0 +1,64 @@
+html {
+	height: 100%;
+}
+body {
+	font-family: "SuperMolotLight", sans-serif;
+	font-size: 24px;
+	line-height: 1;
+	position: relative;
+	background-color: #F2F2F2;
+	height: 100%;
+}
+.container.index {
+	width: 314px;
+	height: 397px;
+	margin: 0 auto;
+	position: absolute;
+	top: 45%;
+	left: 50%;
+	margin: -198px 0 0 -157px;
+	text-align: center;
+}
+.logo {
+	background-image: url(../img/logo.svg);
+	background-repeat: no-repeat;
+	width: 313px;
+	height: 198px;
+	margin-bottom: 90px;
+}
+.contacts {}
+.contacts .phone {
+	line-height: 29px;
+}
+.contacts .email {
+	color: #000;
+	text-decoration: none;
+	line-height: 29px;
+}
+.contacts .social {
+	margin-top: 28px;
+}
+.contacts .social .icon {
+	display: inline-block;
+	color: #555555;
+	font-size: 20px;
+	line-height: 20px;
+	text-decoration: none;
+	margin-right: 8px;
+}
+.contacts .social .icon:last-child {
+	margin-right: 0;
+}
+.contacts .social .icon.icon-vk {}
+.contacts .social .icon.icon-tumblr {
+	
+}
+.contacts .social .icon.icon-twitter {
+	
+}
+.contacts .social .icon.icon-pinterest {
+	
+}
+.contacts .social .icon.icon-instagram {
+	
+}
