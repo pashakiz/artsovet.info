@@ -1,2 +1,3 @@
 # no need sites, but need site/index.html file
 /site/
+!/site/index.html
