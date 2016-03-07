@@ -9,15 +9,17 @@ body {
 	background-color: #F2F2F2;
 	height: 100%;
 }
-.container.index {
+.container {
 	width: 314px;
 	height: 397px;
-	margin: 0 auto;
+	margin: 50px auto 0;
+	text-align: center;
+}
+.container.index {
 	position: absolute;
 	top: 45%;
 	left: 50%;
 	margin: -198px 0 0 -157px;
-	text-align: center;
 }
 .logo {
 	background-image: url(../img/logo.svg);
@@ -49,16 +51,11 @@ body {
 .contacts .social .icon:last-child {
 	margin-right: 0;
 }
-.contacts .social .icon.icon-vk {}
-.contacts .social .icon.icon-tumblr {
-	
+.container .sitelinks {
+	text-align: left;
+	margin-bottom: 90px;
 }
-.contacts .social .icon.icon-twitter {
-	
+.container .sitelinks .site {
+	margin-bottom: 15px;
 }
-.contacts .social .icon.icon-pinterest {
-	
-}
-.contacts .social .icon.icon-instagram {
-	
-}
+.container .sitelinks .site .silelink {}
